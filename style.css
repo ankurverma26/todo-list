@@ -96,6 +96,7 @@ body .container {
     gap: 5px;
     align-items: center;
     margin-left: auto;
+    padding-right: 20px;
 }
 
 .tasks li button.done {
@@ -108,7 +109,11 @@ body .container {
 
 .tasks li button.done:hover {
     cursor: pointer;
+}
+
+.tasks li button.done:active {
     transform: scale(0.97);
+
 }
 
 .tasks li .delete {
@@ -121,5 +126,9 @@ body .container {
 
 .tasks li button.delete:hover {
     cursor: pointer;
+}
+
+.tasks li button.delete:active {
     transform: scale(0.97);
+
 }

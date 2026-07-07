@@ -5,8 +5,6 @@ It helps users manage daily tasks by adding, completing, and deleting them easil
 
 ---
 
----
-
 ## ✨ Features
 
 - ➕ Add new tasks instantly  

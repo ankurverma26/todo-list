@@ -38,7 +38,3 @@ It helps users manage daily tasks by adding, completing, and deleting them easil
 ## 👨‍💻 Author
 
 - Name: Ankur Verma  
-
----
-
-⭐ If you like this project, feel free to star the repository!
